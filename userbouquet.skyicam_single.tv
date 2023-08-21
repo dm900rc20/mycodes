@@ -2,7 +2,7 @@
 #SERVICE 1:64:B:0:0:0:0:0:0:0::---------- Kino ----------
 #DESCRIPTION ---------- Kino ----------
 #SERVICE 1:0:19:6E:D:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a6E%3aD%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Atlantic HD
-#DESCRIPTION Sky Atlantic HD
+#DESCRIPTION Veysel-der-kameltreiber
 #SERVICE 1:0:19:8B:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a8B%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Family HD
 #DESCRIPTION Sky Cinema Family HD
 #SERVICE 1:0:19:83:6:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a83%3a6%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Premieren HD
